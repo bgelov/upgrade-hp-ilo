@@ -1,2 +1,2 @@
 # upgrade-hp-ilo
-Powershell script for upgrading ILO on HP servers
+Powershell script for upgrading ILO firmware on HP servers
